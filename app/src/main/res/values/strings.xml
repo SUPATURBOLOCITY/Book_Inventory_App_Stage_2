@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Inventory App Stage 2</string>
+    <string name="action_enter_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_data">Delete All Data</string>
+    <string name="action_save">Save</string>
+    <string name="action_contact_supplier">Contact Supplier</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_Name">Name</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_book_price">Price</string>
+    <string name="hint_book_quantity">Quantity</string>
+    <string name="hint_supplierphonenumber">Phone +00 00–000-0000</string>
+    <string name="currency">Euro</string>
+    <string name="currency_units">Currency Units</string>
+    <string name="quantity_name">Quantity</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="by_0">0</string>
+    <string name="name">Name</string>
+    <string name="sold">Sold</string>
+    <string name="supplier_details">Supplier details</string>
+    <string name="quantity_value" translatable="false">0</string>
+    <string name="editor_insert_book_successful">Book is saved</string>
+    <string name="editor_insert_book_failed">Issue to save book</string>
+    <string name="empty_view_title_text">No books in stock</string>
+    <string name="empty_view_subtitle_text">Take a Book</string>
+    <string name="editor_activity_title_new_book">Add a book</string>
+    <string name="editor_activity_title_edit_book">Edit a book</string>
+    <string name="editor_update_book_successful">Book details updated</string>
+    <string name="editor_update_book_failed">Error to update book details</string>
+    <string name="unsaved_changes_dialog">Discard your changes and stop editing?</string>
+    <string name="discard">Discard</string>
+    <string name="continue_editing">Keep Edit</string>
+    <string name="delete_all_books">Book deleted</string>
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+    <string name="delete_dialog">Delete this book ?</string>
+    <string name="delete_all_dialog">Delete all books ?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_all_books">Books are deleted</string>
+    <string name="editor_delete_all_books_failed">No Books are available to delete</string>
+    <string name="required">Required Information put inside this Fields</string>
+    <string name="supplier_address">Supplier Address</string>
+    <string name="book_supplier_address">Supplier Address</string>
+</resources>
